@@ -18,7 +18,7 @@ def start():
     elif select == 3:
         remove_task()
     elif select == 4:
-        list_task
+        list_task()
     elif select == 5:
         exit
     else:
