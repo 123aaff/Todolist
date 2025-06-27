@@ -1,6 +1,6 @@
 Progrom is a to do list
 
-Features
+Features:
  Add, Update, and Delete tasks
  Mark a task as in progress or done
  List all tasks
