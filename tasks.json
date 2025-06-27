@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "Task name": "Clean",
+        "Description": "Clean room",
+        "Status": "to do",
+        "Created at": "2025-06-27"
+    },
+    {
+        "id": 2,
+        "Task name": "Phone",
+        "Description": "fix phone",
+        "Status": "to do",
+        "Created at": "2025-06-27"
+    },
+    {
+        "id": 1,
+        "Task name": "hw",
+        "Description": "math homework",
+        "Status": "in progress",
+        "Created at": "2025-06-27",
+        "Updated at": "2025-06-27"
+    },
+    {
+        "id": 4,
+        "Task name": "sleep",
+        "Description": "sleeep",
+        "Status": "to do",
+        "Created at": "2025-06-27"
+    }
+]
